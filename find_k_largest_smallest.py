@@ -1,4 +1,4 @@
-# WAP to find k largest/smallest elements in an array
+# WAP to find k'th largest and smallest elements in an array
 
 # approach 1: using bubble sort, O(n*k)
 def find_k_largest_using_bubble_sort(a, k):
